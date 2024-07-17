@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">prueba</string>
+    <string name="facebook_app_id">36667652502399747</string>
+    <string name="fb_login_protocol_scheme">fb3666765250239974</string>
+    <string name="facebook_client_token">db75c7946772235fbf85c3e050bc2d2f</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
